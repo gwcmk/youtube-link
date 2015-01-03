@@ -13,3 +13,4 @@ This project is still a work in progress, do not use it as-is on any blog or web
 - [x] fix response to "overscrolling" of page
 - [x] eliminate "jitter" on scroll
 - [ ] thoroughly test on all browsers and platforms
+- [ ] add support for Soundcloud, Vimeo, etc. with embed.ly
