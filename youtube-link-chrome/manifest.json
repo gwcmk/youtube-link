@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "youtube-link",
+  "description": "testing chrome extension",
+  "version": "1.0",
+  
+  "content_scripts": [ {
+    "js": [ "jquery.min.js", "yt.js" ],
+    "matches": [ "http://*/*", "https://*/*"]
+  }]
+}
